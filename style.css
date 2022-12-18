@@ -1,0 +1,47 @@
+/*
+
+.blue{
+    color:bisque
+}
+.red{
+    color: black;
+}
+#redp{
+    color: brown;
+}
+
+p{
+
+    color: #0e3822;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    text-shadow: 2px 2px 3px blue;
+}
+
+body{
+    background-color: rgb(210, 197, 181);
+}
+
+.size{
+    width: 100px;;
+    height: 200px;
+    background-color: rgb(184, 222, 209);
+    border-bottom-style: groove;
+    /*border-right-style: dotted;
+    border-left-style: dashed;
+    border-width: 7px;
+    border-color: black;
+    border-radius: 20px; */
+
+    
+
+    
+
+.btn {
+    background-color: rgb(2, 27, 27);
+}
+
+.btn:hover{
+    background-color: black;
+    
+}
